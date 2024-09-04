@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/malsmasher/HomeWork_Patterns_2/actions/workflows/gradle.yml/badge.svg)](https://github.com/malsmasher/HomeWork_Patterns_2/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/malsmasher/HomeWork_Patterns_2/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/malsmasher/HomeWork_Patterns_2/actions/workflows/gradle.yml)
